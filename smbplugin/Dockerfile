@@ -1,1 +1,1 @@
-FROM gcr.io/k8s-staging-sig-storage/smbplugin:canary
+FROM registry.k8s.io/sig-storage/smbplugin:v1.7.0
